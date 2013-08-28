@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Mijn stage blog]]></title>
-  <link href="http://ElgadeKlerk.github.io/ElgadeKlerk/atom.xml" rel="self"/>
-  <link href="http://ElgadeKlerk.github.io/ElgadeKlerk/"/>
-  <updated>2013-08-28T16:28:21+02:00</updated>
-  <id>http://ElgadeKlerk.github.io/ElgadeKlerk/</id>
+  <link href="http://ElgadeKlerk.github.io//atom.xml" rel="self"/>
+  <link href="http://ElgadeKlerk.github.io//"/>
+  <updated>2013-08-28T16:57:34+02:00</updated>
+  <id>http://ElgadeKlerk.github.io//</id>
   <author>
     <name><![CDATA[Elga de Klerk]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Mijn eerste post]]></title>
-    <link href="http://ElgadeKlerk.github.io/ElgadeKlerk/blog/2013/08/28/mijn-eerste-post/"/>
+    <link href="http://ElgadeKlerk.github.io//blog/2013/08/28/mijn-eerste-post/"/>
     <updated>2013-08-28T15:07:00+02:00</updated>
-    <id>http://ElgadeKlerk.github.io/ElgadeKlerk/blog/2013/08/28/mijn-eerste-post</id>
+    <id>http://ElgadeKlerk.github.io//blog/2013/08/28/mijn-eerste-post</id>
     <content type="html"><![CDATA[<h1>Test</h1>
 
 <blockquote><p>probeer maar zegt ie dan.</p></blockquote>
