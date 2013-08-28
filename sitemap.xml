@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://ElgadeKlerk.github.io//blog/2013/08/28/mijn-eerste-post/</loc>
+        <loc>http://ElgadeKlerk.github.io/blog/2013/08/28/mijn-eerste-post/</loc>
         <lastmod>2013-08-28T16:24:09+02:00</lastmod>
     </url>
     <url>
-        <loc>http://ElgadeKlerk.github.io//blog/archives/</loc>
+        <loc>http://ElgadeKlerk.github.io/blog/archives/</loc>
         <lastmod>2013-08-28T16:24:09+02:00</lastmod>
     </url>
     <url>
-        <loc>http://ElgadeKlerk.github.io//blog/categories/</loc>
+        <loc>http://ElgadeKlerk.github.io/blog/categories/</loc>
         <lastmod>2013-08-28T16:24:09+02:00</lastmod>
     </url>
     <url>
-        <loc>http://ElgadeKlerk.github.io//</loc>
+        <loc>http://ElgadeKlerk.github.io/</loc>
         <lastmod>2013-08-28T16:24:09+02:00</lastmod>
     </url>
     <url>
-        <loc>http://ElgadeKlerk.github.io//robots.txt</loc>
+        <loc>http://ElgadeKlerk.github.io/robots.txt</loc>
         <lastmod>2013-08-28T02:12:01+02:00</lastmod>
     </url>
 </urlset>
