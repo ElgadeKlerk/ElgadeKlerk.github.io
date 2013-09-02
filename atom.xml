@@ -4,7 +4,7 @@
   <title><![CDATA[Mijn stage blog]]></title>
   <link href="http://ElgadeKlerk.github.io/atom.xml" rel="self"/>
   <link href="http://ElgadeKlerk.github.io/"/>
-  <updated>2013-08-29T17:11:57+02:00</updated>
+  <updated>2013-09-02T19:08:57+02:00</updated>
   <id>http://ElgadeKlerk.github.io/</id>
   <author>
     <name><![CDATA[Elga de Klerk]]></name>
@@ -12,5 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dag 1]]></title>
+    <link href="http://ElgadeKlerk.github.io/blog/2013/09/02/dag-1/"/>
+    <updated>2013-09-02T17:34:00+02:00</updated>
+    <id>http://ElgadeKlerk.github.io/blog/2013/09/02/dag-1</id>
+    <content type="html"><![CDATA[<h1>Dag 1</h1>
+
+<p>Vandaag begonnen als stagaire bij Yes2Web. In eerst instantie de andere medewerkers leren kennen en toegang krijgen tot servers en bestanden die essentieel zijn. Verder een beetje verdiept in het programmeren van mobiele applicaties en voorbereiding responsive design en .less.</p>
+
+<blockquote><p>The magic word is &lsquo;Anders kan ik niet verder.&rsquo;</p></blockquote>
+
+<p>Heel benieuwd naar morgen wanneer ik daadwerkelijk een projectje toegewezen krijg en aan de slag kan.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://ElgadeKlerk.github.io/blog/2013/08/29/test/"/>
+    <updated>2013-08-29T17:48:00+02:00</updated>
+    <id>http://ElgadeKlerk.github.io/blog/2013/08/29/test</id>
+    <content type="html"><![CDATA[<p>Test</p>
+]]></content>
+  </entry>
   
 </feed>
