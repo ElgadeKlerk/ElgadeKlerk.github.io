@@ -4,7 +4,7 @@
   <title><![CDATA[Mijn stage blog]]></title>
   <link href="http://ElgadeKlerk.github.io/atom.xml" rel="self"/>
   <link href="http://ElgadeKlerk.github.io/"/>
-  <updated>2013-09-02T19:08:57+02:00</updated>
+  <updated>2013-09-03T13:07:50+02:00</updated>
   <id>http://ElgadeKlerk.github.io/</id>
   <author>
     <name><![CDATA[Elga de Klerk]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[SLC gesprek]]></title>
+    <link href="http://ElgadeKlerk.github.io/blog/2013/09/03/slc-gesprek/"/>
+    <updated>2013-09-03T12:45:00+02:00</updated>
+    <id>http://ElgadeKlerk.github.io/blog/2013/09/03/slc-gesprek</id>
+    <content type="html"><![CDATA[<h1>Gesprek 3 september 2013</h1>
+
+<p>Agenda: Stageleerdoelen, inhaalprogramma en de spagaat tussen cmd en mt.</p>
+
+<h2>Stageleerdoelen</h2>
+
+<ol>
+<li>Front-end development is geen onderdeel van een cmd stage en moet dus op de laatste plaats komen te staan. Aanpassingen zijn de meetbaarheid, deze moet actiever en hier hoeft niet de realisatie in te komen te staan, enkel de toetsing.</li>
+<li>Functioneel ontwerp moet doorgesproken worden met het stagebedrijf zodat duidelijk is wat hieronder gerekend wordt, userstories, persona’s ed. Deze moeten aangepast worden in de laatste versie van het stageplan.</li>
+<li>Responsive design leren maken moet een stuk specifieker uitgelegd worden. Er zijn verschillende aspecten die hieronder kunnen vallen en dit moet specifieker worden uitgelegd. Verder is het voor de realisatie niet genoeg om enkel mee te kijken, ik zal ook zelf onderzoek moeten gaan doen dmv boeken of tutorials.</li>
+<li>Er moet een duidelijkere uitleg gegeven worden bij de term relatie in het leerdoel marketing. In het geval van dit stagebedrijf gaat het om zowel klanten als bijvoorbeeld reclamebureaus. Ook op het gebied van marketing is het heel belangrijk dat ik ook mijn eigen onderzoek doe door boeken te lezen of tijdschriften.</li>
+<li>Bespreken met het bedrijf wat de verschillende taken zijn die ik kan gaan doen binnen het bedrijf om te zorgen dat ik mijn signatuur doel bereik. Verder is het belangrijk voor de realisatie dat ik naar de eindtermen kijk.</li>
+</ol>
+
+
+<p>Voor mijn stage is het heel belangrijk dat ik me er van bewust ben dat dit een cmd stage is en dat ik hier bepaalde dingen voor moet behalen.</p>
+
+<h2>Inhaalprogramma</h2>
+
+<p>Ik moet nog eens goed in de hogeschoolgids kijken over hoe vakken nu heten en wanneer ze gegeven worden. Ik moet voor het aanvragen van vrijstelling zorgen voor een menselijk mailtje over waarom ik denk dat ik de vrijstelling verdien. Ik ga het waarschijnlijk heel zwaar krijgen met het inhalen van de vakken van het tweede jaar en tegelijk het volgen van jaar 3.</p>
+
+<h2>Spagaat</h2>
+
+<p>Ik zit nog steeds tussen mt en cmd in, niet meer omdat ik beide opleidingen volg zoals eerst maar meer omdat ik mij niet 100% kan geven aan cmd. Ik moet eens goed gaan nadenken wat ik nodig heb om hier meer gemotiveerd voor te zijn.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Dag 1]]></title>
@@ -25,15 +57,6 @@
 <blockquote><p>The magic word is &lsquo;Anders kan ik niet verder.&rsquo;</p></blockquote>
 
 <p>Heel benieuwd naar morgen wanneer ik daadwerkelijk een projectje toegewezen krijg en aan de slag kan.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Test]]></title>
-    <link href="http://ElgadeKlerk.github.io/blog/2013/08/29/test/"/>
-    <updated>2013-08-29T17:48:00+02:00</updated>
-    <id>http://ElgadeKlerk.github.io/blog/2013/08/29/test</id>
-    <content type="html"><![CDATA[<p>Test</p>
 ]]></content>
   </entry>
   
