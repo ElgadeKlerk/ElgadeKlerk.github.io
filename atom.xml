@@ -4,7 +4,7 @@
   <title><![CDATA[Mijn stage blog]]></title>
   <link href="http://ElgadeKlerk.github.io/atom.xml" rel="self"/>
   <link href="http://ElgadeKlerk.github.io/"/>
-  <updated>2013-09-17T17:12:36+02:00</updated>
+  <updated>2013-09-17T17:29:55+02:00</updated>
   <id>http://ElgadeKlerk.github.io/</id>
   <author>
     <name><![CDATA[Elga de Klerk]]></name>
@@ -38,9 +38,7 @@
     <link href="http://ElgadeKlerk.github.io/blog/2013/09/09/week-1-stage/"/>
     <updated>2013-09-09T08:40:00+02:00</updated>
     <id>http://ElgadeKlerk.github.io/blog/2013/09/09/week-1-stage</id>
-    <content type="html"><![CDATA[<h1>Week 1 stage</h1>
-
-<p>Deze eerste week was vooral nog erg hectisch met dingen regelen met school en wegwijs worden met het bedrijf en de manier van werken. Wel al een eigen opdracht gekregen om te werken aan Scooter Elite. Mijn eerste facebook app ooit en dit was even wennen. Dit was gelijk mijn introductie met .less, waar ik wel al wat over had gelezen maar nu daadwerkelijk in de praktijk moest brengen. Nu dat ik het begin te begrijpen snap ik gelijk waarom het gebruikt word en ik ben zeker van plan dit vaker te gebruiken.</p>
+    <content type="html"><![CDATA[<p>Deze eerste week was vooral nog erg hectisch met dingen regelen met school en wegwijs worden met het bedrijf en de manier van werken. Wel al een eigen opdracht gekregen om te werken aan Scooter Elite. Mijn eerste facebook app ooit en dit was even wennen. Dit was gelijk mijn introductie met .less, waar ik wel al wat over had gelezen maar nu daadwerkelijk in de praktijk moest brengen. Nu dat ik het begin te begrijpen snap ik gelijk waarom het gebruikt word en ik ben zeker van plan dit vaker te gebruiken.</p>
 
 <p>Ik heb nu ook eindelijk mijn rooster kunnen regelen en dit word vrij heftig te combineren met stage. In het eerste kwartaal slechts 3 dagen stage en 2 dagen school en in het tweede kwartaal 5 dagen stage om dit in te halen.</p>
 ]]></content>
@@ -51,9 +49,7 @@
     <link href="http://ElgadeKlerk.github.io/blog/2013/09/03/slc-gesprek/"/>
     <updated>2013-09-03T12:45:00+02:00</updated>
     <id>http://ElgadeKlerk.github.io/blog/2013/09/03/slc-gesprek</id>
-    <content type="html"><![CDATA[<h1>Gesprek 3 september 2013</h1>
-
-<p>Agenda: Stageleerdoelen, inhaalprogramma en de spagaat tussen cmd en mt.</p>
+    <content type="html"><![CDATA[<p>Agenda: Stageleerdoelen, inhaalprogramma en de spagaat tussen cmd en mt.</p>
 
 <h2>Stageleerdoelen</h2>
 
@@ -83,9 +79,7 @@
     <link href="http://ElgadeKlerk.github.io/blog/2013/09/02/dag-1/"/>
     <updated>2013-09-02T17:34:00+02:00</updated>
     <id>http://ElgadeKlerk.github.io/blog/2013/09/02/dag-1</id>
-    <content type="html"><![CDATA[<h1>Dag 1</h1>
-
-<p>Vandaag begonnen als stagaire bij Yes2Web. In eerst instantie de andere medewerkers leren kennen en toegang krijgen tot servers en bestanden die essentieel zijn. Verder een beetje verdiept in het programmeren van mobiele applicaties en voorbereiding responsive design en .less.</p>
+    <content type="html"><![CDATA[<p>Vandaag begonnen als stagaire bij Yes2Web. In eerst instantie de andere medewerkers leren kennen en toegang krijgen tot servers en bestanden die essentieel zijn. Verder een beetje verdiept in het programmeren van mobiele applicaties en voorbereiding responsive design en .less.</p>
 
 <blockquote><p>The magic word is &lsquo;Anders kan ik niet verder.&rsquo;</p></blockquote>
 
