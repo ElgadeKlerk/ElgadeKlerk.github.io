@@ -4,7 +4,7 @@
   <title><![CDATA[Mijn stage blog]]></title>
   <link href="http://ElgadeKlerk.github.io/atom.xml" rel="self"/>
   <link href="http://ElgadeKlerk.github.io/"/>
-  <updated>2013-10-29T15:56:32+01:00</updated>
+  <updated>2013-11-01T09:39:45+01:00</updated>
   <id>http://ElgadeKlerk.github.io/</id>
   <author>
     <name><![CDATA[Elga de Klerk]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Basecamp.y2w]]></title>
+    <link href="http://ElgadeKlerk.github.io/blog/2013/11/01/basecamp-dot-y2w/"/>
+    <updated>2013-11-01T09:16:00+01:00</updated>
+    <id>http://ElgadeKlerk.github.io/blog/2013/11/01/basecamp-dot-y2w</id>
+    <content type="html"><![CDATA[<p>Basecamp.y2w is een intern platform waar alle projecten van Yes2web op staan als overzicht voor de project managers. Hier staan alle gegevens op en kan de begroting vergeleken met de daadwerkelijk gewerkte uren.</p>
+
+<p>Dit liep erg goed maar werd niet zo veel gebruikt omdat de gebruiksvriendelijkheid tegenviel. Het was eigenlijk gewoon een kale database. Als projectje voor mij is het de bedoeling dat ik hier iets aan ga veranderen, dat ik onderzoek wat mensen belangrijk vinden in het gebruik en wat niet, dat ik iets verander aan uit design van de website en mogelijk dat meer mensen het gaan gebruiken.</p>
+
+<p>Ik ben hier nu enkele tijd mee bezig en ik merk dat het hier en daar best zwaar kan zijn om zowel projectmanager als uitvoerder te zijn van een project. Soms ga je een aanpassing controleren en komt er nog vanalles bij of wordt er gevraagd naar andere aanpassingen die later pas aan bot zullen komen.</p>
+
+<p>Ik heb met de mensen die basecamp veel gebruiken gepraat over wat zij wilde dat ik veranderde en heb daar de centrale punten (of punten met meerdere stemmen) uit gehaald om mee aan de slag te gaan.</p>
+
+<p>De grootste uitdaging vind ik dat het systeem nog gebruikt moet kunnen worden terwijl ik er mee bezig ben, hier zijn 2 opties voor:
++ Ik kan een betaversie maken die ik uiteindelijk in zijn geheel upload met alle wijzigingen
++ Ik werk ik korte scrumsessies waarbij ik live werk en de wijzigingen dus direct in gebruik kunnen worden genomen.
+Ik heb gekozen voor deze laatste optie, wat soms problemen oplevert. Zo had ik een bepaalde functie aangepast waar later mee gewerkt moest worden en toen bleek het helemaal niet handig te zijn, het werk dat met deze functie moest worden gedaan kon niet doorgaan dus moest ik snel een aanpassing doen waardoor het wel weer werkte.</p>
+
+<p>Ik zit voor dit project veel samen met een back-end developer, ik merk dat ik hier toch wel van onder de indruk ben. Ik heb op school de basis gekregen (database uitlezen ed.) maar dit gaat echt een stap verder. Iedere keer als ik denk iets te begrijpen komt er nog een stap bovenop en dan ben ik het weer kwijt. Wel leer ik er veel van en begin ik steeds meer dingen te begrijpen, niet zo zeer dat ik het zelf zou kunnen maar meer dat ik kan benoemen waar ik denk dat het probleem zit of waar ik denk dat iets moet veranderen.</p>
+
+<p>Alle technische aanpassingen zijn bijna helemaal doorgevoerd en ik vind het persoonlijk al veel verbeterd, wel moet ik nu aan de slag met het design en daar kijk ik een beetje tegenop. Gelukkig hebben we sinds kort een designer in huis die ik even zou kunnen vragen wat zijn idee er over is.</p>
+
+<p>(Omdat deze website vertrouwelijke informatie bevat kan ik niet ingaan op details of screenshots tonen)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nieuw leerdoel marketing]]></title>
