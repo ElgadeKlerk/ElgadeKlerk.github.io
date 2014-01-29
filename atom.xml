@@ -4,7 +4,7 @@
   <title><![CDATA[Mijn stage blog]]></title>
   <link href="http://ElgadeKlerk.github.io/atom.xml" rel="self"/>
   <link href="http://ElgadeKlerk.github.io/"/>
-  <updated>2014-01-29T21:30:04+01:00</updated>
+  <updated>2014-01-29T22:21:08+01:00</updated>
   <id>http://ElgadeKlerk.github.io/</id>
   <author>
     <name><![CDATA[Elga de Klerk]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Presentatie]]></title>
+    <link href="http://ElgadeKlerk.github.io/blog/2014/01/29/presentatie/"/>
+    <updated>2014-01-29T21:35:00+01:00</updated>
+    <id>http://ElgadeKlerk.github.io/blog/2014/01/29/presentatie</id>
+    <content type="html"><![CDATA[<p>(/images/presentatie.pdf)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Reflectiepresentatie Fanrise]]></title>
